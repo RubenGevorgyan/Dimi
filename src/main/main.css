@@ -1,0 +1,8 @@
+.main  {
+    text-align: center;
+    height: 94.7vh;
+    margin: 20px;
+}
+.main::parent{
+    height: 95vh;
+}
